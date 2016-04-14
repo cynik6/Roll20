@@ -1,0 +1,74 @@
+&{template:5e-shaped} {{spell=1}} {{subheader=Condition}} {{Description:}} ?{Condition|Blinded, {{title=Blinded&#125;&#125; {{freetext=A blinded creature can't see and automatically fails any ability checks that require sight.
+
+
+Attack rolls against the creature have **advantage**&#44; and the creature's attack rolls have **disadvantage**.&#125;&#125;|Charmed, {{title=Charmed&#125;&#125; {{freetext=A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.
+
+
+The charmer has **advantage** on any ability check to interact socially with the creature.&#125;&#125;|Deafened, {{title=Deafened&#125;&#125; {{freetext=A deafened creature can’t hear and automatically fails any ability check that requires hearing.&#125;&#125;|Frightened, {{title=Frightened&#125;&#125; {{freetext=A frightened creature has **disadvantage** on ability checks and attack rolls while the source of its fear is within line of sight.
+
+
+The creature can’t willingly move closer to the source of its fear.&#125;&#125;|Grappled, {{title=Grappled&#125;&#125; {{freetext=A grappled creature’s speed becomes 0&#44; and it can’t benefit from any bonus to its speed.
+
+
+The condition ends if the grappler is **incapacitated** (see the condition).
+
+
+The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect&#44; such as when a creature is hurled away by the thunderwave spell.&#125;&#125;|Incapacitated, {{title=Incapacitated&#125;&#125; {{freetext=An incapacitated creature can’t take actions or reactions.&#125;&#125;|Invisible, {{title=Invisible&#125;&#125; {{freetext=An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding&#44; the creature is heavily obscured. The creature’s location can be detected by any noise it makes or any tracks it leaves.
+
+
+Attack rolls against the creature have **disadvantage**&#44 and the creature’s attack rolls have **advantage**.&#125;&#125;|Paralyzed, {{title=Paralyzed&#125;&#125; {{freetext=A paralyzed creature is **incapacitated** (see the condition) and can’t move or speak.
+
+
+The creature automatically fails **Strength** and **Dexterity** saving throws.
+
+
+Attack rolls against the creature have **advantage**.
+
+
+Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.&#125;&#125;|Petrified, {{title=Petrified&#125;&#125; {{freetext=A petrified creature is transformed&#44; along with any nonmagical object it is wearing or carrying&#44; into a solid inanimate substance (usually stone). Its weight increases by a factor of ten&#44; and it ceases aging.
+
+
+The creature is **incapacitated** (see the condition)&#44; can’t move or speak&#44; and is unaware of its surroundings.
+
+
+Attack rolls against the creature have **advantage**.
+
+
+The creature automatically fails **Strength** and **Dexterity** saving throws.
+
+
+The creature has resistance to all damage.
+
+
+The creature is immune to poison and disease&#44; although a poison or disease already in its system is suspended&#44; not neutralized.&#125;&#125;|Poisioned, {{title=Poisioned&#125;&#125; {{freetext=A poisoned creature has **disadvantage** on attack rolls and ability checks.&#125;&#125;|Prone, {{title=Prone&#125;&#125; {{freetext=A prone creature's only movement option is to crawl&#44; unless it stands up and thereby ends the condition.
+
+
+The creature has **disadvantage** on attack rolls.
+
+
+Attack rolls against the creature has **advantage** if the attacker is within 5 feet of the creature. Otherwise&#44; the attack roll has **disadvantage**.&#125;&#125;|Restrained, {{title=Restrained&#125;&#125; {{freetext=A restrained creature’s speed becomes 0&#44; and it can’t benefit from any bonus to its speed.
+
+
+Attack rolls against the creature have **advantage**&#44; and the creature’s attack rolls have **disadvantage**.
+
+
+The creature has **disadvantage** on **Dexterity** saving throws.&#125;&#125;|Stunned, {{title=Stunned&#125;&#125; {{freetext=A stunned creature is **incapacitated** (see condition)&#44; can't move&#44; and can speak only falteringly.
+
+
+The creature automatically fails **Strength** and **Dexterity** saving throws.
+
+
+Attack rolls against the creature have **advantage**.&#125;&#125;|Unconscious, {{title=Unconscious&#125;&#125; {{freetext=An unconscious creature is **incapacitated** (see the condition)&#44; can’t move or speak&#44; and is unaware of its surroundings.
+
+
+The creature drops whatever it’s holding and falls prone.
+
+
+The creature automatically fails **Strength** and **Dexterity** saving throws.
+
+
+Attack rolls against the creature have **advantage**.
+
+
+Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.&#125;&#125;
+}
